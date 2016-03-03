@@ -1,0 +1,6 @@
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Transaction\bin\Debug\Transaction.exe.config
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Transaction\bin\Debug\Transaction.exe
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Transaction\bin\Debug\Transaction.pdb
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Transaction\obj\Debug\Transaction.csprojResolveAssemblyReference.cache
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Transaction\obj\Debug\Transaction.exe
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Transaction\obj\Debug\Transaction.pdb

@@ -1,0 +1,12 @@
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Exception\bin\Debug\Exception.exe.config
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Exception\bin\Debug\Exception.exe
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Exception\bin\Debug\Exception.pdb
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Exception\obj\Debug\Exception.exe
+c:\Users\Elev1\documents\visual studio 2015\Projects\SQL\Exception\obj\Debug\Exception.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\Exception\bin\Debug\Exception.exe.config
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\Exception\obj\Debug\Exception.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\Exception\obj\Debug\Exception.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\Exception\bin\Debug\Exception.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\Exception\bin\Debug\Exception.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
