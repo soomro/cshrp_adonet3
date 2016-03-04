@@ -7,3 +7,6 @@ c:\users\elev1\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.pdb
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\SQL\SQL\bin\Debug\SQL.exe.config
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\SQL\SQL\obj\Debug\SQL.exe
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\SQL\SQL\obj\Debug\SQL.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\cshrp_adonet3\SQL\SQL\bin\Debug\SQL.exe.config
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\cshrp_adonet3\SQL\SQL\obj\Debug\SQL.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\cshrp_adonet3\SQL\SQL\obj\Debug\SQL.pdb

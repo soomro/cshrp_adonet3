@@ -10,3 +10,6 @@ C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Tran
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\SQL\obj\Debug\SQL.exe
 C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\work_db_2\Exception_SQL_Transaction\Exception_SQL_Transaction\SQL\obj\Debug\SQL.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\cshrp_adonet3\Exception_SQL_Transaction\Exception_SQL_Transaction\SQL\bin\Debug\SQL.exe.config
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\cshrp_adonet3\Exception_SQL_Transaction\Exception_SQL_Transaction\SQL\obj\Debug\SQL.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\cshrp_adonet3\Exception_SQL_Transaction\Exception_SQL_Transaction\SQL\obj\Debug\SQL.pdb
