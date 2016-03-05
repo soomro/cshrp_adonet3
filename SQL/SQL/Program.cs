@@ -16,6 +16,7 @@ namespace SQL
             {
                 //
                 // Koppla till databas
+                // connect to database
                 //
                 SqlConnection connection;
                 string connetionString = "Data Source=ELEV\\MSSQLSERVER2014;Initial Catalog=NORTHWND;Integrated Security=SSPI";
@@ -24,6 +25,7 @@ namespace SQL
 
                 //
                 // Hämta alla Customers
+                // fetch all Customers
                 //
                 string SQL_read = "SELECT CompanyName, Phone FROM Customers ";
                 SqlCommand command_read = new SqlCommand(SQL_read, connection);
@@ -45,6 +47,7 @@ namespace SQL
 
                 //
                 // Lägg till en kategori
+                // Add new category
                 //
                 string catName = "Kat1";
                 string DescName = "DescName1";
@@ -59,6 +62,7 @@ namespace SQL
 
                 //
                 // Lägg till en kategori med Parametrar
+                // add new catagory with parameters
                 //
                 string SQL_add2 = "INSERT INTO Categories (CategoryName, Description) VALUES (@CategoryName, @Description)";
                 SqlCommand command_add2 = new SqlCommand(SQL_add2, connection);
